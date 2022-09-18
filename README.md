@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fateh <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Back-End and Front-End (and a beginner designer) developer from Azerbaijan</h3>
+<h3 align="center">A passionate Full Stack (and a beginner designer) developer from Azerbaijan</h3>
 
 - 🔭 I’m currently working on my **AI**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **fatehshm@code.edu.az**
 
-- ⚡ What I like to do: **I like so much reading, playing piano, skating ...and coding of course**
+- ⚡ What I like to do: **I like so much reading, playing piano, writing ...and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
