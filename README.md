@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **AI**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Laravel & Vue.js**
 
 - 👯 I’m looking to collaborate on **Front-End, Back-End Swift**
 
