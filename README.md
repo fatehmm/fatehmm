@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fateh <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Full Stack (and a beginner designer) developer from Azerbaijan</h3>
+<h2 align="center">Hi 👋, I'm Fateh <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h2>
+<h3 align="center">A passionate Full Stack developer(and a beginner designer) from Azerbaijan</h3>
 
 - 🔭 I’m currently working on my **AI**
 
