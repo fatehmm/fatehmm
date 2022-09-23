@@ -47,6 +47,12 @@
   <a href="https://www.w3schools.com/cs/index.php">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="git" width="50" height="50" />
   </a>
+  <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjuhOWN7ar6AhV_QvEDHa7FCOwQFnoECA0QAQ&url=https%3A%2F%2Fdotnet.microsoft.com%2F&usg=AOvVaw2KiTYrqZvk675vkJ1EuZGT">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".netcore" width="50" height="50"/>       
+  </a>
+  <a href="vuejs.org">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt=".vue" width="50" height="50" />
+  </a>
 </p>
 
 <p align= "center">
