@@ -1,11 +1,11 @@
 <h2 align="center">Hi 👋, I'm Fateh <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h2>
-<h3 align="center">A passionate Full Stack developer(and a beginner designer) from Azerbaijan</h3>
+<h3 align="center">CEO of Gourier LLC & a passionate Full Stack developer(and a beginner designer) from Azerbaijan</h3>
 
-- 🔭 I’m currently working on my **AI**
+- 🔭 I’m currently working on my new startup **Gourier 🚀**
 
-- 🌱 I’m currently learning **Laravel & Vue.js**
+- 🌱 I’m currently learning **Vue.js**
 
-- 👯 I’m looking to collaborate on **Front-End, Back-End Swift**
+- 👯 I’m looking to collaborate on **Front-End, Back-End Swift, UI/UX designer**
 
 - 📫 How to reach me: **fatehshm@code.edu.az**
 
