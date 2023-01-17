@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Fateh <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h2>
-<h3 align="center">CEO of Gourier LLC & a passionate Full Stack developer(and a beginner designer) from Azerbaijan</h3>
+<h3 align="center">CEO of Gourier LLC & a passionate Full Stack developer from Azerbaijan</h3>
 
 - 🔭 I’m currently working on my new startup **Gourier 🚀**
 
