@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my new startup **Gourier 🚀**
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Nuxt & Node.js**
 
 - 👯 I’m looking to collaborate on **Front-End, Back-End Swift, UI/UX designer**
 
