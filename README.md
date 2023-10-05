@@ -1,13 +1,13 @@
 <h2 align="center">Hi 👋, I'm Fateh <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h2>
-<h3 align="center">CEO of Gourier LLC & a passionate Full Stack developer from Azerbaijan</h3>
+<h3 align="center">CTO of Gourier LLC & a passionate Full Stack developer from Azerbaijan</h3>
 
 - 🔭 I’m currently working on my new startup **Gourier 🚀**
 
-- 🌱 I’m currently learning **Nuxt & Node.js**
+- 🌱 I’m currently learning **Assembly & Next.js**
 
 - 👯 I’m looking to collaborate on **Front-End, Back-End Swift, UI/UX designer**
 
-- 📫 How to reach me: **fatehshm@code.edu.az**
+- 📫 How to reach me: **fateh@gourier.app**
 
 - ⚡ What I like to do: **I like so much reading, playing piano, writing ...and coding of course**
 
